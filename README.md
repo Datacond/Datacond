@@ -1,7 +1,6 @@
 <h2 align="center"> 👋 Hi, guys, this is Yao 👋 <br/> </h2>
 <p align="center"> <samp> Yao, yao, check it out. ⚡😄
 <p align="center"> <samp> Hi, guys. I am an animal genetics student at HZAU. 📚📈
-<p align="center"> <samp>  I want to be a competitive bioinformatics analyst. 🤩🎈
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
